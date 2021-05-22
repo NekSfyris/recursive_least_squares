@@ -1,5 +1,5 @@
 # recursive_least_squares
-Least squares and recursive least squares implementation. Determine the resistance R considering Ohm's law V=RI, by comparing both method for 2D line fit to noisy data.
+Least squares and recursive least squares implementation. Determine the resistance R considering Ohm's law V=R*I, by comparing both methods for 2D line fit to noisy data.
 
 ## Results
 ## Least Squares
